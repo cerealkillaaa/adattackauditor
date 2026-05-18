@@ -1,0 +1,11 @@
+Reports/
+*.log
+*.csv
+*.html
+.vscode/
+.DS_Store
+Thumbs.db
+config.json
+*.cred
+*.clixml
+*.xml
