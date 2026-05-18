@@ -27,5 +27,4 @@ A read-only PowerShell tool that audits Active Directory for common attack surfa
 ## Usage
 
 ```powershell
-Copy-Item .\config.example.json .\config.json
 .\AD-Attack-Surface-Auditor.ps1 -OpenReport
